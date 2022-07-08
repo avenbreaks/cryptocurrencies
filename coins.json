@@ -8295,6 +8295,31 @@
           "id": "binanceSmartChain",
           "funds": []
       },
+        {
+        "code": "GTFX",
+        "name": "Gitshock Finance",
+        "categories": ["infrastructure"],
+        "active": true,
+        "description": "### Project Description\n\nGitshock Finance is a framework engine that will help developers in creating customized smart contract on multiple Ethereum Virtual Machine based chains.",
+        "links": {
+            "website": "https://gitshock.com/",
+            "whitepaper": "https://gitshock.gitbook.io/gitshock-whitepaper",
+            "guide": "https://github.com/gitshock-labs/go-tfx-evm",
+            "twitter": "https://twitter.com/gitshock",
+            "github": "https://github.com/gitshock-labs",
+            "reddit": "",
+            "telegram": "https://t.me/gitshocks"
+        },
+        "security": {
+            "privacy": "low",
+            "decentralized": true,
+            "confiscation_resistance": true,
+            "censorship_resistance": true
+        },
+        "rating": "",
+        "id": "bep20|0x306e974624511E3937F37E551C5736F1b2aD21eb",
+        "funds": []
+      },
       {
           "code": "CAKE",
           "name": "PancakeSwap",
@@ -10233,6 +10258,11 @@
         }
     ],
     "exchanges": [
+        {
+            "id": "gitshock",
+            "name": "Gitshock Finance",
+            "image_url": "https://s2.coinmarketcap.com/static/img/coins/64x64/20849.png"
+        },
         {
             "id": "binance",
             "name": "Binance",
